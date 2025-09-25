@@ -1,4 +1,4 @@
-#NEEI LAN PARTY
+# NEEI LAN PARTY
 
 O NEEI está a organizar uma LAN Party para o ano de 2026. São previstas cerca de 5000 inscrições.
 
